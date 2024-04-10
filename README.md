@@ -4,7 +4,7 @@
 - 🔭 Je travaille actuellement sur [mon site web](https://leofilmon.fr)
 - 🌱 Actuellement je suis entrain d'apprendre à **Epitech Lyon**
 - 📫 Comment me contacter ? **[leo.filmon@epitech.eu](mailto:leo.filmon@epitech.eu)**
-- ⚡ Fun fact **Le roi du royaume des flops**
+- ⚡ Fun fact **Je suis très pointilleux**
 
     ## 🌐 Connect with me :
 
